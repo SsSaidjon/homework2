@@ -16,7 +16,7 @@ body {
 }
 
 .tepa {
-    background-image: url(img/360_F_501599274_3SuNUyU19lkEE1Y9YVtggNxN470t48A6.jpg);
+    background-image: url(/img/360_F_501599274_3SuNUyU19lkEE1Y9YVtggNxN470t48A6.jpg);
     box-sizing: border-box;
     background-size: cover;
     width: 460px;
@@ -187,4 +187,5 @@ body {
 }
 .a2:hover{
     background-color: #585ba4;
+
 }
